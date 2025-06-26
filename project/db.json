@@ -1,0 +1,34 @@
+{
+  "Gallery": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/p60rKBbq/Image.jpg",
+      "desc": "Laptop Dell 2020 - In good condition",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/C30fLBdv/Image1.jpg",
+      "desc": "Laptop Dell 2021 - fast and strong",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/ym5VYm67/Image2.jpg",
+      "desc": "Laptop Dell 2022 - excellent for work",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/p60rKBbq/Image.jpg",
+      "desc": "Laptop Dell 2023 - new HD screen",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/sd7nD9gg/Image4.jpg",
+      "desc": "Laptop Dell 2024 - modern edition",
+      "likes": 0
+    }
+  ]
+}
